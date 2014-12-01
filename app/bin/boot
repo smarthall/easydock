@@ -1,0 +1,10 @@
+#!/bin/bash
+
+source /opt/easydock/easydock.sh
+
+easydock_host_ip HOST_IP
+
+echo $HOST_IP
+
+exit
+
